@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/rsurfings/react-onboarding.svg?branch=master)](https://travis-ci.org//rsurfings/react-onboarding)
+[![Build Status](https://travis-ci.com/rsurfings/react-onboarding.svg?branch=master)](https://travis-ci.org/rsurfings/react-onboarding)
 
 
 # Getting Started with Create React App
