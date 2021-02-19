@@ -236,4 +236,4 @@ You can learn more in [this tutorial](https://www.newline.co/fullstack-react/art
 
 
 ## Something Missing?
-If you have ideas for more "How To" [let us know]() or [contribution!]()
+If you have ideas for more "How To" [let us know](https://github.com/rsurfings/react-onboarding/issues) or [contribution!](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/README.md)
