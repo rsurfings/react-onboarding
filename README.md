@@ -90,9 +90,6 @@ my-app/
 ## Running Tests
 Use the following [Jest](https://facebook.github.io/jest/) as its test runner.
 
-https://create-react-app.dev/docs/running-tests/
-
-
 ## Debugging in the Editor
 
 ### Visual Studio Code
