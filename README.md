@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/rsurfings/react-onboarding.svg?branch=master)](https://travis-ci.org//rsurfings/react-onboarding)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
